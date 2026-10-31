@@ -1,6 +1,6 @@
 {
-  "version": "1.11.0",
-  "url": "https://raw.githubusercontent.com/staskop-boop/moj-majetok-aktualizacie/main/bundles/1.11.0.zip",
-  "checksum": "6c2e381252fa38da5e0312e40bd24dc17d93289174c194e19b1b1abbe0b1e2f5",
-  "notes": "Automatické aktualizácie"
+  "version": "1.12.0",
+  "url": "https://raw.githubusercontent.com/staskop-boop/moj-majetok-aktualizacie/main/bundles/1.12.0.zip",
+  "checksum": "add12c0087789c1fcc0a43a3f977c9508c786e43844afbd396fe743e7ddef323",
+  "notes": "Upozornenia na termíny"
 }
