@@ -1,6 +1,6 @@
 {
-  "version": "1.13.0",
-  "url": "https://raw.githubusercontent.com/staskop-boop/moj-majetok-aktualizacie/main/bundles/1.13.0.zip",
-  "checksum": "9a5964303b1e12c2b7cf478c495585bc3eaa762ad3f30396d820290206b19372",
-  "notes": "AI karta zo zmlúv v Gmaile, výber priečinka, rozbaľovací formulár"
+  "version": "1.14.0",
+  "url": "https://raw.githubusercontent.com/staskop-boop/moj-majetok-aktualizacie/main/bundles/1.14.0.zip",
+  "checksum": "4b572b13dc4ada9d2759899b4d2007d286751eebe8db099913c42a52ce34fcc6",
+  "notes": "Mesačné trhové ocenenie z realitných portálov, výnos portfólia"
 }
